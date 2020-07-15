@@ -188,9 +188,7 @@ main {
 .funding_socials a > ion-icon {
   font-size: 30px;
 }
-.btn-align {
-  margin-left: 800px;
-}
+
 
 
 @media only screen and (max-width: 480px) {
@@ -217,9 +215,6 @@ main {
     font-size: 26px;
     line-height: 31px;
   }
-  .btn-align {
-    margin-left: 200px;
-  }
 
 }
 
@@ -228,9 +223,6 @@ main {
   .pleading_funding {
     margin: 100px 5px auto 5px;
   }
-  .btn-align {
-    margin-left: 380px;
-  }
 }
 
 @media only screen and (max-width: 970px) {
@@ -238,12 +230,4 @@ main {
     width: 100%;
   }
 
-}
-
-
-@media only screen and (max-width: 350px) {
-  .btn-align {
-    margin-left: 130px;
-  }
-  
 }
